@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_card"
+            android:icon="@drawable/user"
+            android:title="@string/menu_card" />
+
+    </group>
+
+    <item android:title="About RONG">
+        <menu>
+        <item
+                android:id="@+id/nav_about"
+                android:icon="@drawable/about"
+                android:title="@string/menu_about" />
+        <item
+                android:id="@+id/nav_shop"
+                android:icon="@drawable/house"
+                android:title="@string/shop" />
+        <item
+            android:id="@+id/nav_post"
+            android:icon="@drawable/post"
+            android:title="@string/menu_post" />
+        <item
+            android:id="@+id/nav_search"
+            android:icon="@drawable/search"
+            android:title="@string/nav_search" />
+        <item
+            android:id="@+id/nav_mail"
+            android:icon="@drawable/email"
+            android:title="@string/menu_mail" />
+        <item
+            android:id="@+id/nav_map"
+            android:icon="@drawable/map"
+            android:title="@string/menu_map" />
+        </menu>
+    </item>
+</menu>

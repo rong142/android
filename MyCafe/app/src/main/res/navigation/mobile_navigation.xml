@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/mobile_navigation"
+    app:startDestination="@+id/nav_about">
+
+    <fragment
+        android:id="@+id/nav_about"
+        android:name="com.example.mycafe.ui.about.AboutFragment"
+        android:label="@string/menu_about"
+        tools:layout="@layout/fragment_about" />
+
+    <fragment
+        android:id="@+id/nav_shop"
+        android:name="com.example.mycafe.ui.shop.SlideshowFragment"
+        android:label="@string/shop"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_card"
+        android:name="com.example.mycafe.ui.card.HomeFragment"
+        android:label="@string/menu_card"
+        tools:layout="@layout/fragment_home" />
+
+    <fragment
+        android:id="@+id/nav_order"
+        android:name="com.example.mycafe.ui.order.GalleryFragment"
+        android:label="@string/menu_order"
+        tools:layout="@layout/fragment_gallery" />
+
+    <fragment
+        android:id="@+id/nav_money"
+        android:name="com.example.mycafe.ui.shop.SlideshowFragment"
+        android:label="@string/menu_money"
+        tools:layout="@layout/fragment_slideshow" />
+
+    <fragment
+        android:id="@+id/nav_record"
+        android:name="com.example.mycafe.ui.record.RecordFragment"
+        android:label="@string/menu_record"
+        tools:layout="@layout/fragment_record" />
+
+    <fragment
+        android:id="@+id/nav_post"
+        android:name="com.example.mycafe.ui.post.PostFragment"
+        android:label="@string/under_post"
+        tools:layout="@layout/fragment_post" />
+
+    <fragment
+        android:id="@+id/nav_search"
+        android:name="com.example.mycafe.ui.search.SearchFragment"
+        android:label="@string/menu_search"
+        tools:layout="@layout/fragment_search" />
+
+    <fragment
+        android:id="@+id/nav_mail"
+        android:name="com.example.mycafe.ui.mail.MailFragment"
+        android:label="@string/menu_mail"
+        tools:layout="@layout/fragment_mail" />
+
+    <fragment
+        android:id="@+id/nav_map"
+        android:name="com.example.mycafe.ui.map.MapFragment"
+        android:label="@string/menu_map"
+        tools:layout="@layout/fragment_map" />
+</navigation>

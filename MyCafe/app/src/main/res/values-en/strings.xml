@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">RONGS Cafe</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="clear">Clear</string>
+    <string name="menu_order">Online Ordering</string>
+    <string name="menu_money">Add money</string>
+    <string name="menu_about">About RONGs CAFE</string>
+    <string name="menu_card">My membership card</string>
+    <string name="menu_record">Shopping sheet</string>
+    <string name="menu_post">Activity</string>
+    <string name="menu_search">Search RONGs CAFE</string>
+    <string name="menu_mail">Contact RONGs CAFE</string>
+    <string name="menu_map">RONGs CAFE location</string>
+    <string name="under_about">About</string>
+    <string name="under_order">Order</string>
+    <string name="under_record">Sheet</string>
+    <string name="under_post">Activity</string>
+    <string name="under_map">Location</string>
+    <string name="login">Login</string>
+    <string name="aboutrong">It is located next to the runway of Xiaogang International Airport. For aviation fans, it is the best place to watch planes take off and land. It has a wide field of view. While watching the plane, you can order coffee, drinks and meals, and you can relax for a while. all day. \n\n\nAddress: Lane 10, Lane 135, Mingsheng Street, Xiaogang District, Kaohsiung City\n\nTel: 0978-886-356\n\nBusiness hours: 08:00 - 23:00</string>
+    <string name="addnow">Add Value</string>
+    <string name="searchrong">Search RONG</string>
+    <string name="menumber">Membership number:128859958501</string>
+    <string name="bonuspoints">Bonus Points</string>
+    <string name="point">Points</string>
+    <string name="newusername">New Account</string>
+    <string name="addvalue_text">The minimum stored value is NT $100 each time, and the minimum stored value is NT $10,000</string>
+    <string name="addvalue_btn">Add value</string>
+    <string name="newuser_email">Please enter the mailbox account</string>
+    <string name="newuser_pw">Please enter password</string>
+    <string name="newuser_pwa">Please confirm the password again</string>
+    <string name="newuser_day">Please select date of birth</string>
+    <string name="olduser">Username</string>
+    <string name="oldpw">Password</string>
+
+    <string name="nav_order">shopping</string>
+    <string name="nav_card">my card</string>
+    <string name="nav_money">my money</string>
+    <string name="nav_record">record</string>
+    <string name="nav_search">Search RONG</string>
+    <string name="nav_mail">Mail RONG</string>
+    <string name="nav_signout">Sign Out</string>
+    <string name="shop">branch</string>
+    <string name="suggestionbox">box</string>
+    <string name="navsignout">sign out</string>
+    <string name="nav_power">power</string>
+
+</resources>

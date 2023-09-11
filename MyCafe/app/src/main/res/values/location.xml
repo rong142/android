@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="分店查詢">分店查詢
+        <item>高雄門市</item>
+        <item>澎湖門市</item>
+        <item>台中門市</item>
+    </string-array>
+
+
+</resources>
+
+
+
+
+

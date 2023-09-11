@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/nav_order"
+        android:icon="@drawable/choices"
+        android:title="@string/nav_order"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/nav_money"
+        android:icon="@drawable/money"
+        android:title="@string/nav_money"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/nav_record"
+        android:icon="@drawable/record"
+        android:title="@string/nav_record"
+        app:showAsAction="ifRoom"/>
+    <item
+        android:id="@+id/nav_search"
+        android:orderInCategory="1"
+        android:title="@string/nav_search"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/nav_mail"
+        android:orderInCategory="2"
+        android:title="@string/nav_mail"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/nav_power"
+        android:orderInCategory="4"
+        android:title="充電"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/nav_signout"
+        android:orderInCategory="5"
+        android:title="@string/navsignout"
+        app:showAsAction="never" />
+
+
+</menu>

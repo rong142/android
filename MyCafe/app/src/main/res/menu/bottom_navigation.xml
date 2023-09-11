@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/nav_about"
+        android:title="@string/under_about"
+        android:icon="@drawable/about" />
+
+    <item
+        android:id="@+id/nav_post"
+        android:title="@string/under_post"
+        android:icon="@drawable/post"/>
+    <item
+        android:id="@+id/nav_map"
+        android:title="@string/under_map"
+        android:icon="@drawable/map"/>
+
+</menu>

@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/btn_sendout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="407dp"
+            android:layout_height="50dp"
+            android:layout_marginTop="100px"
+            android:gravity="center_horizontal"
+            android:text="意見箱"
+            android:textSize="34sp" />
+
+        <EditText
+            android:id="@+id/editTextTextPersonName"
+            android:layout_width="340dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="100px"
+            android:layout_marginTop="100px"
+            android:ems="100"
+            android:inputType="textPersonName"
+            android:hint="請輸入帳號"
+            android:textSize="18dp" />
+
+        <EditText
+            android:id="@+id/editTextTextPersonName2"
+            android:layout_width="340dp"
+            android:layout_height="80dp"
+            android:layout_marginLeft="100px"
+            android:layout_marginTop="100px"
+            android:ems="100"
+            android:inputType="textPersonName"
+            android:hint="請輸入文字"
+            android:textSize="18dp" />
+
+        <Button
+            android:id="@+id/btn_box"
+            android:layout_width="180dp"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="540px"
+            android:layout_marginTop="800px"
+            android:text="送出"
+            android:textSize="25dp" />
+
+    </LinearLayout>
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SQLite Menu</string>
+    <string name="no_record">無資料！</string>
+    <string name="image">影像說明</string>
+    <string name="please_input_price">請輸入價格</string>
+    <string name="add_item">新增商品</string>
+    <string name="update_delete_product">修改/刪除商品</string>
+    <string name="ok">確定</string>
+    <string name="modify">修改</string>
+    <string name="delete">刪除</string>
+    <string name="cancel">取消</string>
+    <string name="action_settings">Setting</string>
+    <string name="clear">清除</string>
+</resources>
+

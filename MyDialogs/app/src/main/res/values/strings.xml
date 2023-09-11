@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">My Dialogs</string>
+    <string name="dialog_fire_missiles">Fire missiles?</string>
+    <string name="fire">Fire</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">OK</string>
+    <string name="dialog_message">Automatic brightness</string>
+    <string name="dialog_title">Brightness</string>
+    <string name="fire_a_missile">Missiles</string>
+    <string name="brightness_dialog">Brightness Dialog</string>
+    <string name="pick_color">Pick a color</string>
+    <string name="button_listDialog">List Dialog</string>
+    <string name="planets">Planets</string>
+    <string name="alert_dialog">Alert Dialog</string>
+    <string name="Planets">planets</string>
+    <string name="planet">planet</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="signin">Sign in</string>
+    <string name="submit">Submit</string>
+    <string name="reminder">Reminder name</string>
+    <string name="done">Done</string>
+
+    <string-array name="colors_array">
+        <item>Red</item>
+        <item>Green</item>
+        <item>Blue</item>
+    </string-array>
+
+    <string-array name="planets_array">
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+</resources>
